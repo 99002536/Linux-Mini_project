@@ -12,7 +12,7 @@ namespace {
 		EXPECT_STREQ("", t.getPatient_blood_group("").c_str());
 		EXPECT_STREQ("", t.getPatient_address("").c_str());
 	}
-	TEST(pharmacy, ParamaterizedConstructor)
+	/*TEST(pharmacy, ParamaterizedConstructor)
 	{
 		Pharmacy t("Vinuta", 21, "O-", "Bangalore", 7019421512);
 		EXPECT_EQ(21, t.getPatient_age(21));
@@ -20,7 +20,7 @@ namespace {
 		EXPECT_STREQ("Vinuta", t.getPatient_name("Vinuta").c_str());
 		EXPECT_STREQ("O-", t.getPatient_blood_group("O-").c_str());
 		EXPECT_STREQ("Bangalore", t.getPatient_address("Bangalore").c_str());
-	}
+	}*/
 }
 int main(int argc, char **argv) 
     {
