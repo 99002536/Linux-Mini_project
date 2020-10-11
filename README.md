@@ -2,3 +2,4 @@
 ![Unit Testing](https://github.com/99002536/Linux-Mini_project/workflows/Unit%20Testing/badge.svg)
 ![C/C++ CI](https://github.com/99002536/Linux-Mini_project/workflows/C/C++%20CI/badge.svg)
 ![Valgrind](https://github.com/99002536/Linux-Mini_project/workflows/Valgrind/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3887f4a0ee5f4c128471de9629fb3d78)](https://www.codacy.com/gh/99002536/Linux-Mini_project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002536/Linux-Mini_project&amp;utm_campaign=Badge_Grade)
