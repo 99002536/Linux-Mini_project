@@ -1,0 +1,23 @@
+paracetomal,20
+Dextrose,340
+5-Amino salicylic Acid (5-ASA),389
+Allopurinol,645
+Amoxicillin+Clavulinic acid,435
+Atorvastatin,625
+Betamethasone,432
+Carboplatin,534
+Cefixime,543
+Cetrizine,345
+Chlorambucil,456
+Clopidogrel,234
+Dacarbazine,234
+Daunorubicine,345
+Diazepam,400
+EMLA cream,600
+Enoxaparin,500
+Famotidine,678
+Fentanyl,456
+Filgrastim,232
+Hydroxychloroquine phosphate,344
+Ifosfamide,456
+Imatinib,467
